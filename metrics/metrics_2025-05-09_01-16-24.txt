@@ -1,0 +1,13 @@
+=== JCacheNetDL Metrics Report ===
+Generated: Fri May 09 01:16:24 EDT 2025
+
+=== Counters ===
+
+=== Gauges ===
+memory.free: 114357352
+peers.count: 0
+cache.size: 0
+memory.used: 17763224
+ledger.blocks: 1
+
+=== Histograms ===

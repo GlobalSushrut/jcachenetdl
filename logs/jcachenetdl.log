@@ -1,0 +1,232 @@
+2025-05-09 00:22:21.819 [main] INFO  com.jcachenetdl.node.CacheEngine - Loaded 0 cache items from disk
+2025-05-09 00:22:21.849 [main] INFO  c.jcachenetdl.network.NetworkManager - Network manager started on port 8080
+2025-05-09 01:12:08.522 [main] INFO  c.j.config.ConfigurationManager - Saved configuration to file: config/jcachenetdl.properties
+2025-05-09 01:12:08.550 [main] INFO  c.j.config.ConfigurationManager - Created default configuration file: config/jcachenetdl.properties
+2025-05-09 01:12:08.586 [main] INFO  c.jcachenetdl.metrics.MetricsManager - Metrics reporting scheduled every 60 seconds
+2025-05-09 01:12:08.648 [main] INFO  c.j.launcher.ProductionLauncher - Security disabled
+2025-05-09 01:12:08.858 [main] INFO  com.jcachenetdl.node.CacheEngine - Loaded 0 cache items from disk
+2025-05-09 01:12:25.134 [main] INFO  c.j.config.ConfigurationManager - Loaded configuration from file: config/jcachenetdl.properties
+2025-05-09 01:12:25.150 [main] INFO  c.jcachenetdl.metrics.MetricsManager - Metrics reporting scheduled every 60 seconds
+2025-05-09 01:12:25.186 [main] INFO  c.j.launcher.ProductionLauncher - Security disabled
+2025-05-09 01:12:25.303 [main] INFO  com.jcachenetdl.node.CacheEngine - Loaded 0 cache items from disk
+2025-05-09 01:15:24.619 [main] INFO  c.j.config.ConfigurationManager - Loaded configuration from file: config/jcachenetdl.properties
+2025-05-09 01:15:24.633 [main] INFO  c.jcachenetdl.metrics.MetricsManager - Metrics reporting scheduled every 60 seconds
+2025-05-09 01:15:24.655 [main] INFO  c.j.launcher.ProductionLauncher - Security disabled
+2025-05-09 01:15:24.724 [main] INFO  com.jcachenetdl.node.CacheEngine - Loaded 0 cache items from disk
+2025-05-09 01:15:24.901 [main] INFO  c.j.network.NettyNetworkManager - Netty network manager started on umesh-Latitude-E5470:8082
+2025-05-09 01:15:24.915 [main] INFO  com.jcachenetdl.api.RestApiServer - REST API server initialized on port 8081
+2025-05-09 01:15:24.916 [main] INFO  com.jcachenetdl.api.RestApiServer - REST API server started
+2025-05-09 01:15:24.916 [main] INFO  c.j.launcher.ProductionLauncher - REST API server listening on port 8081
+2025-05-09 01:15:24.920 [main] INFO  c.j.launcher.ProductionLauncher - Node initialized with ID: 367ecc47 listening on port 8082
+2025-05-09 01:32:01.785 [main] INFO  c.j.config.ConfigurationManager - Loaded configuration from file: config/jcachenetdl.properties
+2025-05-09 01:32:01.803 [main] INFO  c.jcachenetdl.metrics.MetricsManager - Metrics reporting scheduled every 60 seconds
+2025-05-09 01:32:01.843 [main] INFO  c.j.launcher.ProductionLauncher - Security disabled
+2025-05-09 01:32:01.964 [main] INFO  com.jcachenetdl.node.CacheEngine - Loaded 0 cache items from disk
+2025-05-09 01:32:46.951 [main] INFO  c.j.config.ConfigurationManager - Loaded configuration from file: config/jcachenetdl.properties
+2025-05-09 01:32:46.969 [main] INFO  c.jcachenetdl.metrics.MetricsManager - Metrics reporting scheduled every 60 seconds
+2025-05-09 01:32:47.007 [main] INFO  c.j.launcher.ProductionLauncher - Security disabled
+2025-05-09 01:32:47.125 [main] INFO  com.jcachenetdl.node.CacheEngine - Loaded 0 cache items from disk
+2025-05-09 01:32:47.388 [main] INFO  c.j.network.NettyNetworkManager - Netty network manager started on umesh-Latitude-E5470:8083
+2025-05-09 01:33:40.206 [main] INFO  c.j.config.ConfigurationManager - Loaded configuration from file: config/jcachenetdl.properties
+2025-05-09 01:33:40.221 [main] INFO  c.jcachenetdl.metrics.MetricsManager - Metrics reporting scheduled every 60 seconds
+2025-05-09 01:33:40.253 [main] INFO  c.j.launcher.ProductionLauncher - Security disabled
+2025-05-09 01:33:40.372 [main] INFO  com.jcachenetdl.node.CacheEngine - Loaded 0 cache items from disk
+2025-05-09 01:33:40.664 [main] INFO  c.j.network.NettyNetworkManager - Netty network manager started on umesh-Latitude-E5470:8083
+2025-05-09 01:33:40.688 [main] INFO  com.jcachenetdl.api.RestApiServer - REST API server initialized on port 8084
+2025-05-09 01:33:40.689 [main] INFO  com.jcachenetdl.api.RestApiServer - REST API server started
+2025-05-09 01:33:40.690 [main] INFO  c.j.launcher.ProductionLauncher - REST API server listening on port 8084
+2025-05-09 01:33:40.704 [main] INFO  c.j.launcher.ProductionLauncher - Node initialized with ID: 7645ff59 listening on port 8083
+2025-05-09 01:52:39.469 [main] INFO  c.j.config.ConfigurationManager - Loaded configuration from file: config/jcachenetdl.properties
+2025-05-09 01:52:39.481 [main] INFO  c.jcachenetdl.metrics.MetricsManager - Metrics reporting scheduled every 60 seconds
+2025-05-09 01:52:39.511 [main] INFO  c.j.launcher.ProductionLauncher - Security disabled
+2025-05-09 01:52:39.598 [main] INFO  com.jcachenetdl.node.CacheEngine - Loaded 0 cache items from disk
+2025-05-09 01:54:13.631 [main] INFO  c.j.config.ConfigurationManager - Loaded configuration from file: config/jcachenetdl.properties
+2025-05-09 01:54:13.650 [main] INFO  c.jcachenetdl.metrics.MetricsManager - Metrics reporting scheduled every 60 seconds
+2025-05-09 01:54:13.689 [main] INFO  c.j.launcher.ProductionLauncher - Security disabled
+2025-05-09 01:54:13.801 [main] INFO  com.jcachenetdl.node.CacheEngine - Loaded 0 cache items from disk
+2025-05-09 01:57:34.463 [main] INFO  c.j.config.ConfigurationManager - Loaded configuration from file: config/jcachenetdl.properties
+2025-05-09 01:57:34.476 [main] INFO  c.jcachenetdl.metrics.MetricsManager - Metrics reporting scheduled every 60 seconds
+2025-05-09 01:57:34.502 [main] INFO  c.j.launcher.ProductionLauncher - Security disabled
+2025-05-09 01:57:34.592 [main] INFO  com.jcachenetdl.node.CacheEngine - Loaded 0 cache items from disk
+2025-05-09 01:59:27.702 [main] INFO  c.j.config.ConfigurationManager - Loaded configuration from file: config/jcachenetdl.properties
+2025-05-09 01:59:27.738 [main] INFO  c.jcachenetdl.metrics.MetricsManager - Metrics reporting scheduled every 60 seconds
+2025-05-09 01:59:27.793 [main] INFO  c.j.launcher.ProductionLauncher - Security disabled
+2025-05-09 01:59:27.958 [main] INFO  com.jcachenetdl.node.CacheEngine - Loaded 0 cache items from disk
+2025-05-09 01:59:28.253 [main] INFO  c.j.network.NettyNetworkManager - Netty network manager started on umesh-Latitude-E5470:8085
+2025-05-09 01:59:28.283 [main] INFO  com.jcachenetdl.api.RestApiServer - REST API server initialized on port 8086
+2025-05-09 01:59:28.286 [main] INFO  com.jcachenetdl.api.RestApiServer - REST API server started
+2025-05-09 01:59:28.286 [main] INFO  c.j.launcher.ProductionLauncher - REST API server listening on port 8086
+2025-05-09 01:59:28.293 [main] INFO  c.j.launcher.ProductionLauncher - Node initialized with ID: f556b558 listening on port 8085
+2025-05-09 02:02:13.743 [main] INFO  c.j.config.ConfigurationManager - Loaded configuration from file: config/jcachenetdl.properties
+2025-05-09 02:02:13.760 [main] INFO  c.jcachenetdl.metrics.MetricsManager - Metrics reporting scheduled every 60 seconds
+2025-05-09 02:02:13.798 [main] INFO  c.j.launcher.ProductionLauncher - Security disabled
+2025-05-09 02:02:13.936 [main] INFO  com.jcachenetdl.node.CacheEngine - Loaded 0 cache items from disk
+2025-05-09 02:03:00.171 [main] INFO  c.j.config.ConfigurationManager - Loaded configuration from file: config/jcachenetdl.properties
+2025-05-09 02:03:00.195 [main] INFO  c.jcachenetdl.metrics.MetricsManager - Metrics reporting scheduled every 60 seconds
+2025-05-09 02:03:00.237 [main] INFO  c.j.launcher.ProductionLauncher - Security disabled
+2025-05-09 02:03:00.328 [main] INFO  com.jcachenetdl.node.CacheEngine - Loaded 0 cache items from disk
+2025-05-09 02:04:07.735 [main] INFO  c.j.config.ConfigurationManager - Loaded configuration from file: config/jcachenetdl.properties
+2025-05-09 02:04:07.748 [main] INFO  c.jcachenetdl.metrics.MetricsManager - Metrics reporting scheduled every 60 seconds
+2025-05-09 02:04:07.783 [main] INFO  c.j.launcher.ProductionLauncher - Security disabled
+2025-05-09 02:04:07.882 [main] INFO  com.jcachenetdl.node.CacheEngine - Loaded 0 cache items from disk
+2025-05-09 02:09:14.909 [main] INFO  c.j.config.ConfigurationManager - Loaded configuration from file: config/jcachenetdl.properties
+2025-05-09 02:09:14.924 [main] INFO  c.jcachenetdl.metrics.MetricsManager - Metrics reporting scheduled every 60 seconds
+2025-05-09 02:09:14.955 [main] INFO  c.j.launcher.ProductionLauncher - Security disabled
+2025-05-09 02:09:15.038 [main] INFO  com.jcachenetdl.node.CacheEngine - Loaded 0 cache items from disk
+2025-05-09 02:09:15.058 [main] INFO  c.j.launcher.ProductionLauncher - Attempting to start node with network.port: 8085 and api.port: 8086
+2025-05-09 02:09:15.218 [main] ERROR c.j.launcher.ProductionLauncher - Bind error: Address already in use on port. Details: Address already in use
+java.net.BindException: Address already in use
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:555)
+	at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:337)
+	at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:294)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:141)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:562)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:600)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:579)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:973)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:260)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:356)
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:173)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:166)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:569)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2025-05-09 02:10:05.613 [main] INFO  c.j.config.ConfigurationManager - Loaded configuration from file: config/jcachenetdl.properties
+2025-05-09 02:10:05.622 [main] INFO  c.jcachenetdl.metrics.MetricsManager - Metrics reporting scheduled every 60 seconds
+2025-05-09 02:10:05.653 [main] INFO  c.j.launcher.ProductionLauncher - Security disabled
+2025-05-09 02:10:05.752 [main] INFO  com.jcachenetdl.node.CacheEngine - Loaded 0 cache items from disk
+2025-05-09 02:10:05.763 [main] INFO  c.j.launcher.ProductionLauncher - Attempting to start node with network.port: 8085 and api.port: 8086
+2025-05-09 02:10:06.022 [main] ERROR c.j.launcher.ProductionLauncher - Bind error: Address already in use on port. Details: Address already in use
+java.net.BindException: Address already in use
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:555)
+	at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:337)
+	at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:294)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:141)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:562)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:600)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:579)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:973)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:260)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:356)
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:173)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:166)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:569)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2025-05-09 02:11:25.918 [main] INFO  c.j.config.ConfigurationManager - Loaded configuration from file: config/jcachenetdl.properties
+2025-05-09 02:11:25.932 [main] INFO  c.jcachenetdl.metrics.MetricsManager - Metrics reporting scheduled every 60 seconds
+2025-05-09 02:11:25.958 [main] INFO  c.j.launcher.ProductionLauncher - Security disabled
+2025-05-09 02:11:26.041 [main] INFO  com.jcachenetdl.node.CacheEngine - Loaded 0 cache items from disk
+2025-05-09 02:11:26.049 [main] INFO  c.j.launcher.ProductionLauncher - Attempting to start node with network.port: 8085 and api.port: 8086
+2025-05-09 02:11:26.222 [main] ERROR c.j.launcher.ProductionLauncher - Error starting node: Address already in use
+java.net.BindException: Address already in use
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:555)
+	at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:337)
+	at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:294)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:141)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:562)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:600)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:579)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:973)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:260)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:356)
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:173)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:166)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:569)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2025-05-09 02:12:19.165 [main] INFO  c.j.config.ConfigurationManager - Loaded configuration from file: config/jcachenetdl.properties
+2025-05-09 02:12:19.189 [main] INFO  c.jcachenetdl.metrics.MetricsManager - Metrics reporting scheduled every 60 seconds
+2025-05-09 02:12:19.219 [main] INFO  c.j.launcher.ProductionLauncher - Security disabled
+2025-05-09 02:12:19.371 [main] INFO  com.jcachenetdl.node.CacheEngine - Loaded 0 cache items from disk
+2025-05-09 02:12:19.406 [main] INFO  c.j.launcher.ProductionLauncher - Attempting to start node with network.port: 8087 and api.port: 8088
+2025-05-09 02:12:20.226 [main] INFO  c.j.network.NettyNetworkManager - Netty network manager started on umesh-Latitude-E5470:8087
+2025-05-09 02:12:20.296 [main] INFO  com.jcachenetdl.api.RestApiServer - REST API server initialized on port 8088
+2025-05-09 02:12:20.316 [main] INFO  com.jcachenetdl.api.RestApiServer - REST API server started
+2025-05-09 02:12:20.316 [main] INFO  c.j.launcher.ProductionLauncher - REST API server listening on port 8088
+2025-05-09 02:12:20.333 [main] INFO  c.j.launcher.ProductionLauncher - Node initialized with ID: 82a4d1da listening on port 8087
+2025-05-09 02:19:09.574 [main] INFO  c.j.config.ConfigurationManager - Loaded configuration from file: config/jcachenetdl.properties
+2025-05-09 02:19:09.587 [main] INFO  c.jcachenetdl.metrics.MetricsManager - Metrics reporting scheduled every 60 seconds
+2025-05-09 02:19:09.628 [main] INFO  c.j.launcher.ProductionLauncher - Security disabled
+2025-05-09 02:19:09.723 [main] INFO  com.jcachenetdl.node.CacheEngine - Loaded 0 cache items from disk
+2025-05-09 02:19:09.734 [main] INFO  c.j.launcher.ProductionLauncher - Attempting to start node with network.port: 8087 and api.port: 8088
+2025-05-09 02:19:09.918 [main] ERROR c.j.launcher.ProductionLauncher - Error starting node: Address already in use
+java.net.BindException: Address already in use
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:555)
+	at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:337)
+	at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:294)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:141)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:562)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:600)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:579)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:973)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:260)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:356)
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:173)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:166)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:569)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2025-05-09 09:46:15.948 [main] INFO  c.j.config.ConfigurationManager - Loaded configuration from file: config/jcachenetdl.properties
+2025-05-09 09:46:15.967 [main] INFO  c.jcachenetdl.metrics.MetricsManager - Metrics reporting scheduled every 60 seconds
+2025-05-09 09:46:16.001 [main] INFO  c.j.launcher.ProductionLauncher - Security disabled
+2025-05-09 09:46:16.130 [main] INFO  com.jcachenetdl.node.CacheEngine - Loaded 0 cache items from disk
+2025-05-09 09:46:16.144 [main] INFO  c.j.launcher.ProductionLauncher - Attempting to start node with network.port: 8087 and api.port: 8088
+2025-05-09 09:46:16.362 [main] ERROR c.j.launcher.ProductionLauncher - Error starting node: Address already in use
+java.net.BindException: Address already in use
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:555)
+	at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:337)
+	at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:294)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:141)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:562)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:600)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:579)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:973)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:260)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:356)
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:173)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:166)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:569)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2025-05-09 09:47:11.759 [main] INFO  c.j.config.ConfigurationManager - Loaded configuration from file: config/jcachenetdl.properties
+2025-05-09 09:47:11.776 [main] INFO  c.jcachenetdl.metrics.MetricsManager - Metrics reporting scheduled every 60 seconds
+2025-05-09 09:47:11.807 [main] INFO  c.j.launcher.ProductionLauncher - Security disabled
+2025-05-09 09:47:11.812 [main] INFO  c.j.launcher.ProductionLauncher - Checking availability of network port: 8087
+2025-05-09 09:47:11.827 [main] ERROR c.j.launcher.ProductionLauncher - Network port 8087 is already in use. Please free the port or change it in config.
+2025-05-09 09:48:02.203 [main] INFO  c.j.config.ConfigurationManager - Loaded configuration from file: config/jcachenetdl.properties
+2025-05-09 09:48:02.220 [main] INFO  c.jcachenetdl.metrics.MetricsManager - Metrics reporting scheduled every 60 seconds
+2025-05-09 09:48:02.266 [main] INFO  c.j.launcher.ProductionLauncher - Security disabled
+2025-05-09 09:48:02.273 [main] INFO  c.j.launcher.ProductionLauncher - Checking availability of network port: 8090
+2025-05-09 09:48:02.394 [main] INFO  com.jcachenetdl.node.CacheEngine - Loaded 0 cache items from disk
+2025-05-09 09:48:02.620 [main] INFO  c.j.network.NettyNetworkManager - Netty network manager started on umesh-Latitude-E5470:8090
+2025-05-09 09:48:02.621 [main] INFO  c.j.launcher.ProductionLauncher - Checking availability of API port: 8091
+2025-05-09 09:48:02.649 [main] INFO  com.jcachenetdl.api.RestApiServer - REST API server initialized on port 8091
+2025-05-09 09:48:02.650 [main] INFO  com.jcachenetdl.api.RestApiServer - REST API server started
+2025-05-09 09:48:02.651 [main] INFO  c.j.launcher.ProductionLauncher - REST API server listening on port 8091
+2025-05-09 09:48:02.664 [main] INFO  c.j.launcher.ProductionLauncher - Node initialized with ID: fc0a1a05 listening on port 8090
