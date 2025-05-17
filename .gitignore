@@ -1,0 +1,32 @@
+# Ignore all files by default
+*
+
+# Allow markdown documentation
+!*.md
+
+# Allow the license file
+!LICENSE.md
+
+# Allow specific documentation directories
+!docs/
+!docs/**/*.md
+!whitepaper/
+!whitepaper/*.md
+
+# Explicitly block any code files that might be in allowed directories
+**/*.cpp
+**/*.hpp
+**/*.h
+**/*.c
+**/*.o
+**/*.a
+**/*.so
+**/*.dylib
+**/*.exe
+**/*.out
+**/*.app
+
+# Build outputs
+build/
+bin/
+lib/
